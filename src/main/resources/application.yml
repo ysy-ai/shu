@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: @activatedProperties@
+  application:
+    name: image-process-system
+server:
+  port: 8080
